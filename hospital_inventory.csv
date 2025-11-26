@@ -1,0 +1,21 @@
+Drug_Name,Category,Unit_Price,Drug_ID,Current_Stock,Reorder_Level
+Amoxicillin 500mg,Antibiotic,30,5001,8,50
+Ciprofloxacin 500mg,Antibiotic,50,5002,462,50
+Azithromycin 500mg,Antibiotic,200,5003,486,50
+Metronidazole 400mg,Antibiotic,10,5004,112,50
+Paracetamol 500mg,Pain Relief,5,5005,370,50
+Ibuprofen 400mg,Pain Relief,10,5006,434,50
+Diclofenac 50mg,Pain Relief,15,5007,451,50
+Metformin 500mg,Antidiabetic,20,5008,479,50
+Glibenclamide 5mg,Antidiabetic,10,5009,308,50
+Losartan 50mg,Antihypertensive,40,5010,427,50
+Amlodipine 5mg,Antihypertensive,30,5011,186,50
+Atorvastatin 20mg,Cardiovascular,60,5012,419,50
+Cetirizine 10mg,Antihistamine,20,5013,99,50
+Salbutamol Inhaler,Respiratory,800,5014,282,50
+Cough Syrup (Diphenhydramine),Respiratory,350,5015,310,50
+AL (Artemether-Lumefantrine),Antimalarial,0,5016,454,50
+Omeprazole 20mg,Gastrointestinal,30,5017,27,50
+ORS Sachets,Gastrointestinal,25,5018,57,50
+Zinc Sulphate 20mg,Supplement,10,5019,170,50
+Multivitamins,Supplement,15,5020,225,50
