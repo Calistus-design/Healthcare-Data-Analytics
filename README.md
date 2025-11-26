@@ -1,5 +1,6 @@
 # **Hospital Operations & Patient Flow Analytics**
-<img width="1303" height="754" alt="image" src="https://github.com/user-attachments/assets/be58b9a9-7324-4111-b18f-9258bdf8ab26" />
+<img width="1291" height="726" alt="image" src="https://github.com/user-attachments/assets/1267aca9-bdce-4a51-bb78-08e6469b1b75" />
+
 
 ## **Summary**
 In the absence of public datasets that accurately reflect the operational complexity of Kenyan healthcare facilities (linking Supply Chain, Billing, and Clinical Diagnosis), I engineered a **Full-Stack Hospital Analytics System**.
